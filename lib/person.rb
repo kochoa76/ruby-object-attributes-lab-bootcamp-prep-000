@@ -10,4 +10,5 @@ def job
 end
 def job=(singer)
   @job=singer 
+end 
 end
